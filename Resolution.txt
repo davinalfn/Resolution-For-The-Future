@@ -1,0 +1,70 @@
+TARGET UNDERSTAND THE BASIC CONCEPT OF FRONT END DEVELOPER : 
+
+---
+
+- HTML (HyperText Markup Language)**
+Learn to create a web page structure: headings, paragraphs, links, tables, forms, etc.
+- Tools: W3Schools, FreeCodeCamp, MDN Web Docs.
+- CSS (Cascading Style Sheets)
+Learn how to design a web page: colors, layouts, grids, flexbox, and basic animations.
+- *Tools*: Flexbox Froggy, Grid Garden.
+- **Basic JavaScript**
+Start with concepts like variables, functions, arrays, DOM Manipulation, and events.
+
+#### **Action Plan**:
+- Create a small project like a simple personal portfolio.
+- Practice coding regularly on platforms like CodePen or JSFiddle.
+
+---
+
+### **2. Learn Popular Frameworks and Tools (2-4 Months)**
+#### **Target**: Master libraries and tools to speed up development.
+- **CSS Framework**: Bootstrap or Tailwind CSS.
+- Helps speed up the design process.
+- **JavaScript Framework**: React.js (recommended).
+- Learn the concepts of *components*, *state*, and *props*.
+- **Version Control**: Git and GitHub.
+- Learn how to store and manage your project code.
+
+#### **Action Plan**:
+- Build a project like a to-do list app or a simple blog with React.
+- Collaborate with friends on GitHub to practice *teamwork*.
+
+---
+
+### **3. Master Advanced Tools and Concepts (3-6 Months)**
+#### **Goal**: Understand a more complex front-end environment.
+- **Package Manager**: NPM or Yarn to manage dependencies.
+- **Module Bundler**: Webpack or Vite to optimize your project.
+- **Responsive Design**: Media queries and mobile-friendly design.
+- **Testing**: Learn tools like Jest or Cypress to ensure code quality.
+
+#### **Action Plan**:
+- Create a simple e-commerce website.
+- Optimize your project performance with *lazy loading* or *code splitting* techniques.
+
+---
+
+### **4. Build a Portfolio and Explore More Complex Projects (6+ Months)**
+#### **Goal**: Create an attractive portfolio for recruiting.
+- **Portfolio Project**:
+- Interactive landing page website.
+- Dashboard with dynamic data (use API).
+- Simple browser-based game.
+
+#### **Action Plan**:
+- Publish your project using a platform like Netlify or Vercel.
+- Enable GitHub Pages to showcase your project.
+
+---
+
+### **5. Learn and Join Front-end Developer Communities**
+#### **Goal**: Increase your knowledge and connections.
+- Join communities like:
+- Frontend Mentor.
+- Stack Overflow.
+- Groups on LinkedIn or Discord.
+- Take online courses for the latest material (examples: Udemy, Coursera, or Dicoding).
+
+---
+
